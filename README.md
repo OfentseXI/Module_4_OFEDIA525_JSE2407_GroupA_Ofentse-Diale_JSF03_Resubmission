@@ -4,11 +4,11 @@
 
 Welcome to the JSF 03 Vue Challenge! This project assisted me in learning and practicing the building of a web application using Svelte, a lightweight and powerful JavaScript framework. In this challenge, I had the opportunity to build a real-world E-commerce application from scratch, using Svelte's unique features and best practices.
 
-Throughout this project, I learnt how to create reusable components, manage state and props, handle events, and more. By the end of this challenge, I had a fully functional web application that showcases my skills and understanding of Svelte.
+Throughout this project, I learnt how to create reusable components, manage state and props, handle events, and more. By the end of this challenge, I had a fully functional web application that showcases my skills and understanding of Vue.js.
 
 ## 🤖 Technologies
 
-* Vue #: A lightweight JavaScript framework for building web applications
+* Vue : A lightweight JavaScript framework for building web applications
 * JavaScript: The programming language used for building the application
 * HTML: Used for structuring
 * TailwindCSS: Used for styling the application
